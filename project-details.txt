@@ -1,5 +1,0 @@
-MongoDB
-
-User
-U: otto
-P: otto123
